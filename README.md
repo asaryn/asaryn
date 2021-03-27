@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🔭 I’m currently studying on 1 Cibinong Vocational Highschool
+<!-- - 🔭 I’m currently studying on 1 Cibinong Vocational Highschool
 - 🌱 I’m currently learning Python for general usage
 - 📫 How to reach me: Amatul Sharin on Facebook, or sharinamatul@gmail.com
-- ⚡ Fun fact: I sometimes do creative writing, learn languages, and read books
+- ⚡ Fun fact: I sometimes do creative writing, learn languages, and read books -->
